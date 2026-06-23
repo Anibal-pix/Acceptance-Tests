@@ -3,7 +3,7 @@ Como personal de limpieza
 Quiero ver en mi pantalla qué contenedores están llenos
 Para ir a vaciarlos a tiempo
 
-Scenario: Contenedor lleno cambia a estado de advertencia
+Escenario: Contenedor lleno cambia a estado de advertencia
 Given que el contenedor asignado al plástico ha alcanzado el límite de su espacio disponible en el centro de acopio
 When el personal de limpieza abre la pestaña de control en la app
 Then la aplicación muestra el icono del tacho de plástico con un color rojo
