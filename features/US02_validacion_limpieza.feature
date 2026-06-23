@@ -3,13 +3,13 @@ Como residente
 Quiero recibir un mensaje sobre la limpieza de mi residuo
 Para saber si está apto para ser reciclado o si debo lavarlo
 
-Scenario: Envase limpio aprobado
+Escenario: Envase limpio aprobado
 Given que el usuario ha tomado una foto a una lata de refresco
 And esta está limpia
 When la aplicación analiza la superficie del objeto
 Then la aplicación muestra un mensaje que dice "Estado: Limpio y apto para reciclaje"
 
-Scenario: Envase sucio detectado
+Escenario: Envase sucio detectado
 Given que el usuario ha tomado una foto a un envase
 And este tiene restos visibles de comida
 When la aplicación procesa los detalles de la imagen
