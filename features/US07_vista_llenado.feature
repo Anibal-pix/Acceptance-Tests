@@ -1,7 +1,4 @@
 Feature: Vista de nivel de llenado
-Como personal de limpieza
-Quiero ver en mi pantalla qué contenedores están llenos
-Para ir a vaciarlos a tiempo
 
 Escenario: Contenedor lleno cambia a estado de advertencia
 Given que el contenedor asignado al plástico ha alcanzado el límite de su espacio disponible en el centro de acopio
