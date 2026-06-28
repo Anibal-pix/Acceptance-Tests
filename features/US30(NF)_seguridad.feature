@@ -1,7 +1,4 @@
 Feature: Privacidad y protección de datos
-Como administrador
-Quiero que la información del condominio esté protegida
-Para que personas ajenas al edificio no puedan ver los nombres ni datos de mis residentes
 
 Escenario: Intento de ingreso forzoso desde un teléfono externo.
 Given que una persona ajena al condominio descarga la aplicación en su celular e intenta ingresar a una cuenta con datos inválidos
