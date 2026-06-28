@@ -1,7 +1,4 @@
 Feature: Clasificación por foto
-Como residente
-Quiero tomar una foto de mi residuo desde la aplicación
-Para que el sistema me indique si es papel, plástico o vidrio
   
 Escenario: Reconocimiento exitoso de material
 Given que el usuario se encuentra en el apartado de escaneo de la aplicación
