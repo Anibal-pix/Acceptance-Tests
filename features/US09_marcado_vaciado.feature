@@ -1,7 +1,4 @@
 Feature: Marcado de vaciado
-Como personal de limpieza
-Quiero marcar un contenedor como "Vaciado" en la aplicación
-Para que la administración y mis compañeros sepan que ya limpié esa zona
 
 Escenario: Confirmación de vaciado completa
 Given que el personal de limpieza ha terminado de limpiar un contenedor
