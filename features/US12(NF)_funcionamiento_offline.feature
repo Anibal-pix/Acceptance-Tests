@@ -1,7 +1,4 @@
 Feature: Sincronización en modo offline
-Como personal de limpieza
-Quiero que la aplicación siga funcionando correctamente aunque la señal de internet sea débil
-Para no interrumpir mi trabajo
 
 Escenario: Marcado de actividades sin conectividad
 Given que el personal de limpieza cuenta con una mala señal de internet
