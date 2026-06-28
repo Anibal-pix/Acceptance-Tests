@@ -1,7 +1,4 @@
 Feature: Alerta de rechazo
-Como residente
-Quiero recibir una alerta clara si mi residuo es rechazado
-Para evitar colocar un residuo sucio en un tacho limpio
 
 Escenario: Alerta visual de rechazo
 Given que el usuario intenta escanear una caja de pizza empapada de aceite y grasa
