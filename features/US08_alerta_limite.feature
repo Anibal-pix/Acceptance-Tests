@@ -1,7 +1,4 @@
 Feature: Alerta de límite de contenedor
-Como personal de limpieza
-Quiero recibir una notificación en mi celular cuando un contenedor llegue a su límite
-Para actuar antes de que la basura se caiga
 
 Escenario: Alerta por contenedor lleno
 Given que el personal de limpieza se encuentra realizando otras actividades
