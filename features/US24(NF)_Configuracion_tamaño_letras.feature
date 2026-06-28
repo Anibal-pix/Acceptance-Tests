@@ -1,7 +1,4 @@
 Feature: Configuración de tamaño de letras
-Como usuario de la tercera edad
-Quiero poder configurar el tamaño de las letras de la aplicación
-Para hacerlas más grandes y leer las instrucciones sin forzar mi vista
 
 Escenario: Incremento de tamaño de las letras en el menú de ajustes
 Given que una usuaria jubilada ingresa al menú para ajustar el tamaño de las letras
