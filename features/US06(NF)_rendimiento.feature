@@ -1,7 +1,4 @@
 Feature: Respuesta instantánea de procesamiento de imagen
-Como residente
-Quiero que la aplicación me dé el resultado del escaneo en 3 segundos
-Para no hacer esperar a mis vecinos en el área de acopio
 
 Escenario: Carga fluida en condiciones ideales
 Given que el usuario toma la foto de su botella en un área con buena iluminación
