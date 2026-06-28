@@ -1,7 +1,4 @@
 Feature: Validación de limpieza
-Como residente
-Quiero recibir un mensaje sobre la limpieza de mi residuo
-Para saber si está apto para ser reciclado o si debo lavarlo
 
 Escenario: Envase limpio aprobado
 Given que el usuario ha tomado una foto a una lata de refresco
